@@ -15,3 +15,4 @@ is Accepting current change
 is Accepting incoming change 
 # the third choice 
 is merging the both codes together
+## Thank you 3> .
