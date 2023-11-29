@@ -9,6 +9,9 @@
 The final step is to create a new commit with the help of the git commit command.
 ## you have 3 choices to solve conflict 
 ![img](https://ihatetomatoes.net/wp-content/uploads/2020/05/img_merge-conflict.png)
-the first choice is Accepting current change 
-the second choice is Accepting incoming change 
-the third choice is merging the both codes together
+# the first choice 
+is Accepting current change 
+# the second choice 
+is Accepting incoming change 
+# the third choice 
+is merging the both codes together
